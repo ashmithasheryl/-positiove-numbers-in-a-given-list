@@ -1,0 +1,9 @@
+list1=[12,-7,5,-14,64]
+list2=[12,14,-95,3]
+for i in list1:
+    if i>=0:
+        print(i,end=",")
+        
+for j in list2:
+    if j>0:
+        print([j],end=",")
